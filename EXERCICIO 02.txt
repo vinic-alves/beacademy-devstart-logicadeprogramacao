@@ -1,0 +1,5 @@
+2° Algoritmo para realizar a troca de um pneu furado:
+->Sinalize a via
+-> Pegue um pneu cheio 
+-> retire o pneu furado com a chave de roda
+-> coloque o pneu cheion no lugar. 
