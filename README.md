@@ -33,6 +33,7 @@ Repositório para exercícios de lógica de programação
 29. [EXERCICIO 29](/NOMES_QUE_INICIAM_COM_C.ALG)
 30. [EXERCICIO 30](/ORDENA_VETOR.ALG)
 31. [EXERCICIO 31](/Voto_facultativo_Ou_N%C3%A3o.ALG)
+32. [EXERCICIO 32](/AREA_DE_UM_RETANGULO.ALG)
 
 
 
